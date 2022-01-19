@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "date-shower": "index.js"
+    "ndse-date": "index.js",
+    "ndse-game": "game.js"
   },
   "repository": {
     "type": "git",
