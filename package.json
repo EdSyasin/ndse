@@ -2,12 +2,12 @@
   "name": "ndse10_l1",
   "version": "1.0.0",
   "description": "Репозиторий с домашними заданиями по курсу node js",
-  "main": "index.js",
+  "main": "date.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ndse-date": "index.js",
+    "ndse-date": "date.js",
     "ndse-game": "game.js"
   },
   "repository": {
